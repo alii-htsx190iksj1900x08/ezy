@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "notes": "simnple node goes here",
   "pub_date": "Sat Aug 15 2026 13:59:59 GMT+0100 (GMT+01:00)",
-  "required":true,
+  "required":false,
    "platforms": {
     "windows-x86_64": {
       "url": "https://woozy-zebra-470.eu-west-1.convex.cloud/api/storage/cf29753a-a434-4fbe-5964-36e0388529d4"
