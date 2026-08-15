@@ -1,19 +1,14 @@
 {
-  "version": "",
-  "notes": "",
-  "pub_date": "",
-  "platforms": {
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
+  "version": "1.0.1",
+  "notes": "simnple node goes here",
+  "pub_date": "15/08/2026",
+  "required":true,
+   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "url": "https://woozy-zebra-470.eu-west-1.convex.cloud/api/storage/cf29753a-a434-4fbe-5964-36e0388529d4"
     },
-    "darwin-x86_64": {
-      "signature": "",
-      "url": ""
+    "universal-apk": {
+      "url": "https://woozy-zebra-470.eu-west-1.convex.cloud/api/storage/cf29753a-a434-4fbe-5964-36e0388529d4"
     }
   }
 }
