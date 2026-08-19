@@ -5,10 +5,10 @@
     "required": true,
     "platforms": {
         "windows-x86_64": {
-            "url": "https://woozy-zebra-470.eu-west-1.convex.cloud/api/storage/639d9b64-a552-4e71-14e4-9a5ffc7cda47"
+            "url": "https://woozy-zebra-470.eu-west-1.convex.cloud/api/storage/f02642e6-acd2-47bb-77bb-87da27eff121"
         },
         "universal-apk": {
-            "url": "https://woozy-zebra-470.eu-west-1.convex.cloud/api/storage/867aaecd-b17f-4f7d-e989-73d6f1b7e434"
+            "url": ""
         }
     }
 }
