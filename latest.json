@@ -5,7 +5,7 @@
     "required": true,
     "platforms": {
         "windows-x86_64": {
-            "url": "https://woozy-zebra-470.eu-west-1.convex.cloud/api/storage/14ef9f50-8062-4468-9137-31897626cd2f"
+            "url": "https://woozy-zebra-470.eu-west-1.convex.cloud/api/storage/4b62fd15-bfa6-46e6-250d-0648d4ce1217"
         },
         "universal-apk": {
             "url": ""
