@@ -1,11 +1,11 @@
 {
     "version": "1.0.1",
-    "notes": "- إصلاح مشاكل اللغة العربية في ملفات PDF والطباعة العادية\n- إضافة خيار تحديد عدد النسخ لكل طابعة\n- تحسينات xxxعامة وإصلاحات إضافية",
-    "pub_date": "Sat Aug 15 2026 13:59:59 GMT+0100 (GMT+01:00)",
+    "notes": "- إصلاح مشاكل اللغة العربية في ملفات PDF والطباعة العادية\n- إضافة خيار تحديد عدد النسخ لكل طابعة\n- تحسينات عامة وإصلاحات إضافية",
+    "pub_date": "Wed Aug 19 2026 22:58:32 GMT+0100 (GMT+01:00)",
     "required": true,
     "platforms": {
         "windows-x86_64": {
-            "url": "https://woozy-zebra-470.eu-west-1.convex.cloud/api/storage/f02642e6-acd2-47bb-77bb-87da27eff121"
+            "url": "https://woozy-zebra-470.eu-west-1.convex.cloud/api/storage/14ef9f50-8062-4468-9137-31897626cd2f"
         },
         "universal-apk": {
             "url": ""
